@@ -1,5 +1,5 @@
 <!-- ====================== HEADER (tenuto) ====================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:8b5cf6&height=180&section=header&text=Hi%20👋,%20I'm%20Manuel&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:8b5cf6&height=180&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Manuel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=820&lines=M.Sc.+in+CS+(Data+Science+%26+ML)+%40+University+of+Salerno;AI,+Machine+Learning,+Bioinformatics;End-to-end+Data+Pipelines+-+Collect+%E2%86%92+Model+%E2%86%92+Validate" alt="typing intro"/>
@@ -20,7 +20,7 @@ My academic and research path allowed me to build strong expertise in <b>artific
 </p>
 
 <p align="left">
-💡 I have developed both academic and personal projects ranging from <b>deep learning for predictive maintenance</b> (Nexsoft + UNISA) to <b>mobile and web application development</b>, up to research in <b>pattern matching algorithms and genome assembly</b> (thesis: FLORE).
+💡 I have developed both academic and personal projects ranging from <b>deep learning for predictive maintenance</b> (Nexsoft + UNISA) to <b>mobile and web application development</b>, up to research in <b>pattern matching algorithms and genome assembly</b>.
 </p>
 
 <p align="left">
